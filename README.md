@@ -1,4 +1,4 @@
-# Shamim
+# Finalized AR Mini Project (Shamim)
 
 An Unreal Engine AR (Augmented Reality) project featuring handheld AR capabilities.
 
