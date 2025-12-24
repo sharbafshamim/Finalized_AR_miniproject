@@ -1,4 +1,4 @@
-# Finalized AR Mini Project (Shamim)
+# Finalized AR Mini Project (Shamim Sharbaf)
 
 An Unreal Engine AR (Augmented Reality) project featuring handheld AR capabilities.
 
@@ -39,5 +39,3 @@ This is an Unreal Engine project focused on AR functionality, including:
 3. Build and deploy to an AR-capable Android device
 
 ## License
-
-[Add your license information here]
