@@ -1,6 +1,6 @@
 # Unreal Engine files
-Binaries/
-Build/
+# Binaries/ - Allow binaries to be committed
+# Build/ - Allow build files to be committed
 Intermediate/
 Saved/
 DerivedDataCache/
